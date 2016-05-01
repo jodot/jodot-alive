@@ -1,6 +1,6 @@
 {
-  "name": "@jodot/alive",
-  "version": "1.0.0",
+  "name": "jodot-alive",
+  "version": "1.0.2",
   "description": "Jodot duty that logs to STDOUT that it is alive, implying that Jodot is alive too.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
     "alive"
   ],
   "author": "Vito Chin <vito@php.net> (http://www.vitochin.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jodot": "^1.0.0"
+  }
 }

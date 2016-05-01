@@ -13,6 +13,5 @@ Usage
 
 Please see [adding duties] to learn how to add this duty to a [Jodot] instance.
 
-[Jodot]: <https://github.io/jodot/jodot-core>
-[adding duties]: <https://github.io/jodot/jodot-core>
-[Supervisor]: <http://supervisord.org/>
+[Jodot]: <https://github.com/jodot/jodot>
+[adding duties]: <https://github.com/jodot/jodot>
