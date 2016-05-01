@@ -1,0 +1,16 @@
+{
+  "name": "@jodot/alive",
+  "version": "1.0.0",
+  "description": "Jodot duty that logs to STDOUT that it is alive, implying that Jodot is alive too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jodot",
+    "monitor",
+    "alive"
+  ],
+  "author": "Vito Chin <chin.vito@gmail.com> (http://www.vitochin.com)",
+  "license": "MIT"
+}
